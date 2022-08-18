@@ -1,5 +1,6 @@
 # ML_Predict_shoes_prices
 ML project in DS Apps course
+
 You can read instructions of the project on hw6.pdf
 You can read project summary on Assignment 6 summary.pdf
 short explenation on project files:
