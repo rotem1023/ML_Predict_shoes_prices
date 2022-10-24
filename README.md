@@ -15,8 +15,8 @@ data_preparation_for_model.ipynb - mostly functions for reading and splitting da
 
 hw6.pdf - instructions of the project.
 
-main_model_RF.html - final model of predict shoes prices using random forest.
+main_model_RF.pdf - final model of predict shoes prices using random forest.
 
-models_4_5_NN.html -  final model of predict shoes prices using neural network - got the best prediction score.
+models_4_5_NN.pdf -  final model of predict shoes prices using neural network - got the best prediction score.
 
 preprocess_functions_03.ipynb - functions to modify and transform X data (except brands data).
